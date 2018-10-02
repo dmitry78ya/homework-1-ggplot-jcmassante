@@ -1,8 +1,8 @@
-# Homework-1: ggplot
+# Homework-1&2: ggplot
 
-1. Open this repository in RStudio Cloud (or in your local RStudio), and 
+1. Open this repository in RStudio Cloud (or clone to your local RStudio) 
 
-2. complete the exercises in homework_*.Rmd file.
+2. Complete the exercises in homework_*.Rmd file.
 
 3. Knit .Rmd file to .md file 
 
