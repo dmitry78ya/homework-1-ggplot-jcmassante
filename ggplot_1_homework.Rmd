@@ -16,17 +16,17 @@ By using *mpg* dataset:
 
 1. Map a continuous variable to color, size, and shape. How do these aesthetics behave differently for categorical vs. continuous variables?
 
-Color
+- Color
 ```{r}
 
 ```
 
-Size
+- Size
 ```{r}
 
 ```
 
-Shape
+- Shape
 ```{r}
 
 ```

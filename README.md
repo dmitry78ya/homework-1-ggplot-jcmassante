@@ -2,7 +2,7 @@
 
 1. Open this repository in RStudio Cloud (or clone to your local RStudio) 
 
-2. Complete the exercises in ggplot_hw*.Rmd file.
+2. Complete the exercises in ggplot_*_homework.Rmd file.
 
 3. Knit .Rmd file to .md file 
 
